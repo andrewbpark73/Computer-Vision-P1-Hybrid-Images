@@ -1,6 +1,6 @@
-# CS5670 Computer Vision Projects and Artifacts
+# CS5670 Computer Vision
 
-## Project 1: Hybrid Images 
+## Project 1: Hybrid Images
 
 ### Introduction
 
